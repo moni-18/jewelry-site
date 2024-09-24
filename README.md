@@ -1,10 +1,9 @@
-## Requirements
+## How to Run the Project
 
-To run the website, you need a web browser.
+To view the jewelry website locally, follow these steps:
 
-### Steps:
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/moni-18/jewelry-site.git
 
-1. **Clone the Repository**
-2. Open the terminal and navigate to the project directory.
-3. Go to your browser: http://localhost:8080
 
